@@ -1,0 +1,16 @@
+
+.bg-image {
+  background-image: url("bkground.jpg.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;}
+  .front{
+      font-size: 60px;
+      color:#fcf75e;
+      text-align: center;
+  }
+  .front2{
+      font-size: 30px;
+      color:#fcf75e;
+      text-align: center;
+  }
